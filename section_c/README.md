@@ -1,4 +1,6 @@
-### Instructions - 
+# Section C: Code Challenge
+
+### Instructions
 
 Prerequisites
 Python 3.x installed on your system
